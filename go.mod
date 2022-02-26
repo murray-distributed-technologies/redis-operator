@@ -1,4 +1,4 @@
-module redis-operator
+module github.com/murray-distributed-technologies/redis-operator
 
 go 1.17
 
